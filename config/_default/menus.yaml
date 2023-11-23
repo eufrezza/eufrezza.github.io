@@ -7,16 +7,16 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
+#  - name: Posts
+#    url: '#posts'
+#    weight: 20
+  - name: Job Market Paper
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
+#  - name: Talks
+#    url: '#talks'
+#    weight: 40
+  - name: Ongoing Research
     url: '#featured'
     weight: 50
   - name: Contact
