@@ -120,5 +120,11 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Candidate in Economics at [Trinity College Dublin](https://www.tcd.ie/Economics/) and an [Irish Research Council Scholar](https://research.ie/), under the supervision of [Selim Gulesci](https://sites.google.com/view/selimgulesci/home?authuser=0) and [Alejandra Ramos](https://sites.google.com/site/alejandraramosmoreno/). I am also affiliated with the [Trinity Impact Evaluation Unit (TIME)](https://www.tcd.ie/time/). My fields of research are at the intersection between Gender and Development Economics.
+
+NEWS: I have been awarded the [Luca D'Agliano](https://www.fondazioneeinaudi.it/en/participate/scholarships) Research Grant to pursue my research on Intimate Partner Violence and gender norms! 
+
+In my [Job Market Paper](https://drive.google.com/file/d/1WPmtGiefGi29QotsB7UlHQV2brCIxLJQ/view?usp=drive_link) I study how domestic violence shapes attitudes towards violence.
+
+I will be on the 2023-2024 job market. 
 {style="text-align: justify;"}
