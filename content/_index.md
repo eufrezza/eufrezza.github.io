@@ -226,12 +226,13 @@ sections:
   #    title: Popular Topics
   #  design:
   #    columns: '2'
-  - block: Teach
-    id: teaching
-    content:
-      title: Teaching
+- block: collection
+  id: teaching
+  content:
+    title: Teaching
+    filters:
       folders:
-          - teaching
+        - teaching
 
   - block: contact
     id: contact
