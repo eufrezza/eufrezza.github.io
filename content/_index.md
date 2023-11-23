@@ -190,9 +190,9 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: featured
+    id: projects
     content:
-      title: Featured Publications
+      title: Job Market Paper
       filters:
         folders:
           - jmp
@@ -201,8 +201,9 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: featured
     content:
-      title: Recent Publications
+      title: Ongoing Research
       filters:
         folders:
           - ongoing
