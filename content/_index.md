@@ -232,6 +232,7 @@ sections:
       title: Teaching
       folders:
           - teaching
+          
   - block: contact
     id: contact
     content:
