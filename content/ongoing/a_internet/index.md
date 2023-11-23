@@ -1,5 +1,6 @@
 ---
 title: 'Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa'
+subtitle: 'Awarded the Irish Society for Women in Economics Prize for Best Paper by a Woman Economist'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
