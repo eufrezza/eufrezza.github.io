@@ -226,10 +226,7 @@ sections:
   #    title: Popular Topics
   #  design:
   #    columns: '2'
-  - block: teaching
-    id: teaching
-    content:
-      title: Teaching
+
   - block: contact
     id: contact
     content:
