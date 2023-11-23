@@ -226,7 +226,7 @@ sections:
   #    title: Popular Topics
   #  design:
   #    columns: '2'
-  - block: collection
+  - block: widget
     id: teaching
     content:
       title: Teaching
