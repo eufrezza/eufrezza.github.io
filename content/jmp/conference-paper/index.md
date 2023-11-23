@@ -1,5 +1,6 @@
 ---
-title: 'Accepting'
+title: 'Accepting the Unacceptable: Does intimate partner violence
+shape the tolerance of violence?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
