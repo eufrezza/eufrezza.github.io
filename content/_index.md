@@ -201,7 +201,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: featured
+    id: projects
     content:
       title: Ongoing Research
       filters:
