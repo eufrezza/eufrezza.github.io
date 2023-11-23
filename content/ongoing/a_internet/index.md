@@ -1,5 +1,5 @@
 ---
-title: 'Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa'
+title: 'Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa (Awarded the ISWE prize from IEA)'
 subtitle: 'Awarded the Irish Society for Women in Economics Prize for Best Paper by a Woman Economist'
 
 # Authors
