@@ -190,7 +190,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: projects
+    id: featured
     content:
       title: Job Market Paper
       filters:
@@ -201,7 +201,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: featured
+    id: projects
     content:
       title: Ongoing Research
       filters:

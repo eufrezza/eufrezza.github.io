@@ -11,17 +11,17 @@ main:
 #    url: '#posts'
 #    weight: 20
   - name: Job Market Paper
-    url: '#projects'
-    weight: 30
+    url: '#featured'
+    weight: 20
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
   - name: Ongoing Research
-    url: '#featured'
-    weight: 50
+    url: '#projects'
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
