@@ -227,8 +227,8 @@ sections:
   #  design:
   #    columns: '2'
  - block: collection
-  id: teaching
-  content:
+   id: teaching
+   content:
     title: Teaching
     filters:
       folders:
