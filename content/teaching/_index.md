@@ -13,3 +13,4 @@ view: 2
 ---
 
 ## Teaching 
+* TA of Econometrics 
