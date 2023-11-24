@@ -11,13 +11,13 @@ title: Lecturer of Introductory Mathematics
 
 
 ### Syllabus 
-## Topics - First Week
+
 - Sets, vectors and linear algebra
 - One-variable calculus
 - Multi-variable calculus
 - Optimization with equality constraints
 - Optimization with inequality constraints
-## Topics - Second Week
+
 - Integral calculus and first-order differential equations
 - First-order difference equations and discrete time analysis
 - Simultaneous differential equations
