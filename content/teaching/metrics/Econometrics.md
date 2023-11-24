@@ -6,7 +6,7 @@ draft: false
 summary: Prof. Nicola Mastrorocco and Gaia Narciso
 tags:
 - teaching
-title: TA of Econometrics (BSc. Year 3)
+title: TA of Econometrics (BSc. Year 3) --  Dermot McAleese prize
 ---
 ## In 2020-2021 I was awarded the Dermot McAleese as Best Teaching Assistant and I was nominated for the Trinity Teaching Award for Postgraduate Students.
 
