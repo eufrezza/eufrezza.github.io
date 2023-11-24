@@ -6,17 +6,12 @@ draft: false
 summary: 
 tags:
 - teaching
-title: Lecturer of Introductory Mathematics
+title: Lecturer of Introductory Mathematics (MSc. Year 1)
 ---
-### Syllabus 
 
-- Sets, vectors and linear algebra
-- One-variable calculus
-- Multi-variable calculus
-- Optimization with equality constraints
-- Optimization with inequality constraints
-- Integral calculus and first-order differential equations
-- First-order difference equations and discrete time analysis
-- Simultaneous differential equations
-- Optimal control theory (introduction)
- 
+
+### Syllabus 
+- Impact Evaluation and the Selection Problem;
+- Randomized Controlled Trials;
+- Non-Experimental approaches: Difference-in-Difference; Instrument Variable; Regression Discontinuity
+
