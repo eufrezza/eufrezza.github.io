@@ -9,8 +9,7 @@ cms_exclude: true
 view: 2
 
 
-
----
-
 ## Teaching 
 * TA of Econometrics 
+
+---
