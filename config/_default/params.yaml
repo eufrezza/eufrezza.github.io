@@ -6,12 +6,12 @@
 # Appearance
 
 appearance:
-  #theme_day: custom_theme
+  theme_day: true
   #theme_night: custom_theme
   #font: minimal
   font_size: L
   mode: light
-  color: blue
+  color: red
 
 # SEO
 
