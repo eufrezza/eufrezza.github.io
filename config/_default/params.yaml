@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'I am a PhD Candidate in Economics at Trinity College Dublin.'
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -33,6 +33,7 @@ marketing:
 
 header:
   navbar:
+    description: 'I am a PhD Candidate in Economics at Trinity College Dublin.'
     enable: true
     align: l
     show_logo: true
