@@ -6,12 +6,24 @@
 # Appearance
 
 appearance:
-  theme_day: true
+  #theme_day: true
   #theme_night: custom_theme
   #font: minimal
   font_size: L
-  mode: light
-  color: red
+  #mode: light
+  #color: red
+  # Is theme light or dark?
+  light: true
+  # Primary
+  primary: "#284f7a"
+  # Menu
+  menu_primary: "#fff"
+  menu_text: "#34495e"
+  menu_text_active: "#284f7a"
+  menu_title: "#2b2b2b"
+  # Home sections
+  home_section_odd: "rgb(255, 255, 255)"
+  home_section_even: "rgb(247, 247, 247)"
 
 # SEO
 
