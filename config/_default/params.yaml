@@ -11,7 +11,7 @@ appearance:
   #font: minimal
   font_size: L
   mode: light
-  color: black
+  color: red
 
 # SEO
 
