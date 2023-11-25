@@ -11,7 +11,7 @@ appearance:
   font: 'custom_font'
   font_size: L
   #mode: light
-  color: blue
+  color: purple
 
 # SEO
 
