@@ -24,8 +24,6 @@ organizations:
   - name: Trinity College Dublin
     url: https://www.tcd.ie/
 
-# Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
