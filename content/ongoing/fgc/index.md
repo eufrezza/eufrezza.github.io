@@ -1,6 +1,6 @@
 ---
 title: 'Female Genital Cutting and women’s autonomy: theory and evidence from Nigeria'
-subtitle: Joint with [Suzanna Khalifa](https://sites.google.com/view/suzanna-khalifa/accueil?authuser=0)
+summary: Joint with [Suzanna Khalifa](https://sites.google.com/view/suzanna-khalifa/accueil?authuser=0)
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
