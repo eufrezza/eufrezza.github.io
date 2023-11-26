@@ -1,5 +1,6 @@
 ---
 title: 'Natural resources and education: evidence from Bangladesh'
+summary: Joint with [Selim Gulesci](https://sites.google.com/view/selimgulesci/home?authuser=0) and [Ashikur Rahman](https://www.pri-bd.org/member/dr-ashikur-rahman/)
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
