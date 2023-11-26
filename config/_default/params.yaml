@@ -6,12 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: true
-  #theme_night: custom_theme
-  font: 'custom_font'
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
   font_size: L
-  #mode: light
-  color: purple
 
 # SEO
 
@@ -20,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'I am a PhD Candidate in Economics at Trinity College Dublin.'
-    twitter: ''
+    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +33,6 @@ marketing:
 
 header:
   navbar:
-    description: 'I am a PhD Candidate in Economics at Trinity College Dublin.'
     enable: true
     align: l
     show_logo: true
