@@ -122,7 +122,7 @@ I am a PhD Candidate in Economics at [Trinity College Dublin](https://www.tcd.ie
 
 NEWS: I have been awarded the [Luca D'Agliano](https://www.fondazioneeinaudi.it/en/participate/scholarships) Research Grant to pursue my research on Intimate Partner Violence and gender norms! 
 
-In my [Job Market Paper](https://drive.google.com/file/d/1VdQgQYIPIsEPLtLs1jD8puICBpnZBEIF/view?usp=sharing) I study how domestic violence shapes attitudes towards violence.
+In my [Job Market Paper](https://drive.google.com/file/d/1iIhRDKm3Qhwx8SZ65bAZp2DnPQKvJWPL/view?usp=drive_link) I study how domestic violence shapes attitudes towards violence.
 
 I will be on the 2023-2024 job market. 
 {style="text-align: justify;"}
