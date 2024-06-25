@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Postdoctoral Researcher in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Trinity College Dublin
-    url: https://www.tcd.ie/
+  - name: Università della Svizzera Italiana
+    url: https://idep.usi.ch/?_gl=1*16kykj*_gcl_au*MTI1NDEzODY4NS4xNzE2NDYyMzQy*_ga*MjAyMDUxMTA2NC4xNzE2NDYyMzM3*_ga_89Y0EEKVWP*MTcxOTMxNDc0Ni41LjEuMTcxOTMxODQwNS42MC4wLjE3ODY2MTU1NDc.
 
 
 # Interests to show in About widget
