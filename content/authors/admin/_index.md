@@ -120,9 +120,4 @@ highlight_name: true
 I am a Postdoctoral Researcher at the [Università della Svizzera italiana](https://idep.usi.ch/?_gl=1*16kykj*_gcl_au*MTI1NDEzODY4NS4xNzE2NDYyMzQy*_ga*MjAyMDUxMTA2NC4xNzE2NDYyMzM3*_ga_89Y0EEKVWP*MTcxOTMxNDc0Ni41LjEuMTcxOTMxODQwNS42MC4wLjE3ODY2MTU1NDc.) 
 I did my PhD at [Trinity College Dublin](https://www.tcd.ie/Economics/), under the supervision of [Selim Gulesci](https://sites.google.com/view/selimgulesci/home?authuser=0) and [Alejandra Ramos](https://sites.google.com/site/alejandraramosmoreno/). I am also affiliated with the [Trinity Impact Evaluation Unit (TIME)](https://www.tcd.ie/time/). My fields of research are at the intersection between Gender and Development Economics.
 
-NEWS: I have been awarded the [Luca D'Agliano](https://www.fondazioneeinaudi.it/en/participate/scholarships) Research Grant to pursue my research on Intimate Partner Violence and gender norms! 
-
-In my [Job Market Paper](https://drive.google.com/file/d/1DbQ5oFtemDWZM85FcwN2gjNmpqyBOjL9/view?usp=sharing) I study how domestic violence shapes attitudes towards violence.
-
-I will be on the 2023-2024 job market. 
 {style="text-align: justify;"}
