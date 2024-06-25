@@ -117,7 +117,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Postdoctoral Researcher at the [Università della Svizzera italiana](https://idep.usi.ch/?_gl=1*16kykj*_gcl_au*MTI1NDEzODY4NS4xNzE2NDYyMzQy*_ga*MjAyMDUxMTA2NC4xNzE2NDYyMzM3*_ga_89Y0EEKVWP*MTcxOTMxNDc0Ni41LjEuMTcxOTMxODQwNS42MC4wLjE3ODY2MTU1NDc.) 
+I am a Postdoctoral Researcher at the [Università della Svizzera italiana](https://idep.usi.ch/?_gl=1*16kykj*_gcl_au*MTI1NDEzODY4NS4xNzE2NDYyMzQy*_ga*MjAyMDUxMTA2NC4xNzE2NDYyMzM3*_ga_89Y0EEKVWP*MTcxOTMxNDc0Ni41LjEuMTcxOTMxODQwNS42MC4wLjE3ODY2MTU1NDc.). 
+
 I did my PhD at [Trinity College Dublin](https://www.tcd.ie/Economics/), under the supervision of [Selim Gulesci](https://sites.google.com/view/selimgulesci/home?authuser=0) and [Alejandra Ramos](https://sites.google.com/site/alejandraramosmoreno/). I am also affiliated with the [Trinity Impact Evaluation Unit (TIME)](https://www.tcd.ie/time/). My fields of research are at the intersection between Gender and Development Economics.
 
 {style="text-align: justify;"}
