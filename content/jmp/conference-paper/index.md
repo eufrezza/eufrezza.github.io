@@ -46,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 - name: World Bank Blog
-  url:  "https://blogs.worldbank.org/en/impactevaluations/coping-through-acceptance-intimate-partner-violence-and-attitudes-dynamics-guest"
+  url:  'https://blogs.worldbank.org/en/impactevaluations/coping-through-acceptance-intimate-partner-violence-and-attitudes-dynamics-guest'
 
 url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
