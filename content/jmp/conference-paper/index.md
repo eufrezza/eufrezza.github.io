@@ -43,9 +43,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Custom Link
-   url: http://example.org
-
+ - name: World Bank Blog 
+   url: https://blogs.worldbank.org/en/impactevaluations/coping-through-acceptance-intimate-partner-violence-and-attitudes-dynamics-guest
+ - name: Ideas for India 
+   url: https://www.ideasforindia.in/topics/social-identity/coping-through-acceptance-what-shapes-attitudes-towards-intimate-partner-violence.html
 url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
