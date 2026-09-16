@@ -1,0 +1,294 @@
+/* Global */
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+a {
+  color: #1a4f8b;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #333;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  position: relative;
+}
+
+nav ul li a:hover {
+  color: #555;
+}
+
+nav ul li a.active::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: #333;
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+}
+
+/* Main */
+main {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* Home page: sidebar + content */
+main.home {
+  display: flex;
+  gap: 2rem;
+}
+
+.sidebar {
+  flex: 1;
+  text-align: center;
+}
+
+.sidebar img {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  margin: 0 auto 1rem auto;
+  object-fit: cover;
+  display: block;
+}
+
+.social-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  text-align: left;
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+.social-links a {
+  display: flex;
+  align-items: center;
+  color: #333;
+  text-decoration: none;
+}
+
+.social-links a i {
+  width: 1.25rem;
+  margin-right: 0.5rem;
+  text-align: center;
+}
+
+.social-links a:hover {
+  color: #555;
+}
+
+.content {
+  flex: 2;
+}
+
+.content h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.content p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+/* Research & teaching */
+.page-title {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 1.5rem;
+}
+
+.section-heading {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.paper-entry,
+.course-entry {
+  border-top: 1px solid #ccc;
+  padding: 1rem 0;
+}
+
+.paper-title,
+.course-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.paper-title a {
+  color: #333;
+}
+
+.paper-title a:hover {
+  color: #555;
+}
+
+.paper-subtitle,
+.course-details {
+  font-size: 0.95rem;
+  font-style: italic;
+  color: #555;
+  margin-top: 0.25rem;
+}
+
+.paper-note,
+.paper-status {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.25rem;
+}
+
+.paper-status {
+  color: #666;
+}
+
+.paper-award {
+  font-size: 0.95rem;
+  color: #8a5a00;
+  margin-top: 0.25rem;
+}
+
+details {
+  margin-top: 0.5rem;
+}
+
+details summary {
+  font-weight: 500;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+details summary:hover {
+  color: #555;
+}
+
+.paper-content {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.paper-content p {
+  text-align: justify;
+  hyphens: auto;
+  line-height: 1.6;
+}
+
+.paper-content ul {
+  margin: 0.25rem 0 0;
+  padding-left: 1.25rem;
+  line-height: 1.6;
+}
+
+.paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.round-button {
+  display: inline-block;
+  padding: 0.3rem 0.9rem;
+  border: 1px solid #333;
+  border-radius: 999px;
+  color: #333;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.round-button:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  margin-top: 3rem;
+  background-color: #f8f9fa;
+  color: #777;
+  border-top: 1px solid #e0e0e0;
+}
+
+/* Tablets */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  nav ul {
+    gap: 1.25rem;
+    margin-top: 0.75rem;
+  }
+
+  main.home {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .paper-title,
+  .course-title {
+    font-size: 1.1rem;
+  }
+}
+
+/* Phones */
+@media (max-width: 480px) {
+  header {
+    padding: 1rem;
+  }
+
+  .sidebar img {
+    width: 150px;
+    height: 150px;
+  }
+
+  .page-title {
+    font-size: 1.6rem;
+  }
+
+  .section-heading {
+    font-size: 1.25rem;
+  }
+}
