@@ -37,7 +37,9 @@
       <img src="files/portrait.jpg" alt="Eugenia Frezza">
       <div class="social-links">
         <a href="mailto:eugenia.maria.frezza@usi.ch"><i class="fas fa-envelope"></i> Email</a>
-        <div class="sidebar-email">eugenia.maria.frezza@usi.ch</div>
+        <button type="button" class="copy-email" data-email="eugenia.maria.frezza@usi.ch">
+          <i class="fas fa-copy"></i> <span>Copy address</span>
+        </button>
         <a href="https://twitter.com/EugeniaFrezza" target="_blank"><i class="fab fa-x-twitter"></i> X</a>
         <a href="files/frezza_cv.pdf" target="_blank"><i class="fas fa-file-lines"></i> CV</a>
       </div>
@@ -68,6 +70,38 @@
   <footer>
     &copy; 2026 Eugenia Frezza
   </footer>
+
+
+  <script>
+    document.querySelectorAll('.copy-email').forEach(function (btn) {
+      var label = btn.querySelector('span');
+      var original = label.textContent;
+      btn.addEventListener('click', function () {
+        var address = btn.dataset.email;
+        var done = function () {
+          label.textContent = 'Copied';
+          btn.classList.add('copied');
+          setTimeout(function () {
+            label.textContent = original;
+            btn.classList.remove('copied');
+          }, 2000);
+        };
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(address).then(done, function () { label.textContent = address; });
+        } else {
+          var field = document.createElement('textarea');
+          field.value = address;
+          field.setAttribute('readonly', '');
+          field.style.position = 'absolute';
+          field.style.left = '-9999px';
+          document.body.appendChild(field);
+          field.select();
+          try { document.execCommand('copy'); done(); } catch (e) { label.textContent = address; }
+          document.body.removeChild(field);
+        }
+      });
+    });
+  </script>
 
 </body>
 </html>
