@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eufrezza.github.io/sitemap.xml

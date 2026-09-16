@@ -23,7 +23,7 @@ jobs:
       - name: Collect static site
         run: |
           mkdir _site
-          cp index.html research.html teaching.html style.css _site/
+          cp index.html research.html teaching.html style.css robots.txt sitemap.xml _site/
           cp -r files _site/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
