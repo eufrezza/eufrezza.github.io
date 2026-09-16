@@ -89,7 +89,7 @@ main.home {
   flex-direction: column;
   gap: 0.5rem;
   text-align: left;
-  max-width: 200px;
+  max-width: 250px;
   margin: 0 auto;
 }
 
@@ -106,37 +106,12 @@ main.home {
   text-align: center;
 }
 
-.copy-email {
-  display: flex;
-  align-items: center;
-  gap: 0;
-  font: inherit;
-  color: #333;
-  background: none;
-  border: 0;
-  padding: 0;
-  cursor: pointer;
-  text-align: left;
+.email-link {
+  font-size: 0.85rem;
+  overflow-wrap: anywhere;
 }
 
-.copy-email i {
-  width: 1.25rem;
-  margin-right: 0.5rem;
-  text-align: center;
-}
-
-.copy-email:hover {
-  color: #555;
-}
-
-.copy-email.copied {
-  color: #2f7d72;
-}
-
-.social-links a:hover {
-  color: #555;
-}
-
+/* CONTENT (Right) */
 .content {
   flex: 2;
 }
